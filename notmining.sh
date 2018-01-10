@@ -1,5 +1,5 @@
 # NotMining
-Script Squid NotMining
+Script Squid NotMining.Org
 
 nano /RUTA_SCRIPT/notmining.sh
 
